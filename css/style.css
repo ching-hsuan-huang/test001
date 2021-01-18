@@ -1292,21 +1292,21 @@ a {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(/img/footer_icon_fb.svg);
+    content: url(img/footer_icon_fb.svg);
 }
 
 .footer_icon_2 {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(/img/footer_icon_p.svg);
+    content: url(img/footer_icon_p.svg);
 }
 
 .footer_icon_3 {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(/img/footer_icon_tw.svg);
+    content: url(img/footer_icon_tw.svg);
 }
 
 .email {
