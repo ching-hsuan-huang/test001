@@ -1120,28 +1120,28 @@ a {
     width: 30px;
     margin-right: 5px;
     display: inline-block;
-    content: url(/img/B-icon_1.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/B-icon_1.svg");
 }
 
 .B-icon_2 {
     width: 30px;
     margin-right: 5px;
     display: inline-block;
-    content: url(/img/B-icon_2.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/B-icon_2.svg");
 }
 
 .B-icon_3 {
     width: 30px;
     margin-right: 5px;
     display: inline-block;
-    content: url(/img/B-icon_3.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/B-icon_3.svg");
 }
 
 .B-icon_4 {
     width: 30px;
     margin-right: 5px;
     display: inline-block;
-    content: url(/img/B-icon_4.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/B-icon_4.svg");
 }
 
 .black_box_item_p {
@@ -1292,21 +1292,21 @@ a {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(img/footer_icon_fb.svg);
+    content: url("https://github.com/ching-hsuan-huang/test001/blob/main/img/footer_icon_fb.svg");
 }
 
 .footer_icon_2 {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(img/footer_icon_p.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/footer_icon_p.svg");
 }
 
 .footer_icon_3 {
     display: inline-block;
     width: 30px;
     height: 30px;
-    content: url(img/footer_icon_tw.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/86046e55a73d079e2eed07e078da28b570e78d10/img/footer_icon_tw.svg");
 }
 
 .email {
