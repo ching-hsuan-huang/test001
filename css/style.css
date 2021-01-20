@@ -1188,13 +1188,13 @@ a {
 .star {
     display: inline;
     width: 13px;
-    content: url(img/star.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/e2cf37f4edc42e9223dea90d1dc2ee03d7f47af6/img/star.svg");
 }
 
 .star_no {
     display: inline;
     width: 13px;
-    content: url(img/star_no.svg);
+    content: url("https://raw.githubusercontent.com/ching-hsuan-huang/test001/e2cf37f4edc42e9223dea90d1dc2ee03d7f47af6/img/star_no.svg");
 }
 
 .favorite_p {
