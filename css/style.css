@@ -34,7 +34,8 @@ small,
 strike,
 strong,
 sub,
-sup,
+s
+,
 tt,
 var,
 b,
@@ -1401,6 +1402,7 @@ a {
     background-color: #000;
     padding: 10px 15px;
     cursor: pointer;
+    z-index: 10000;
 }
 
 
